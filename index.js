@@ -1,5 +1,5 @@
 var recipes = { }
 
-function updatePlaylist(obj, String, song) {
+function updatePlaylist(obj, key, value) {
   
 }
